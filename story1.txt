@@ -1,0 +1,1 @@
+So this i the first tie i am getting command over Git github and version controls.
